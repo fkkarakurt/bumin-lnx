@@ -1,0 +1,6 @@
+*.csv
+*.s
+*.asm
+*.a
+*.c
+versioncheck.*
